@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233056447495",
+    "project_id": "intro-5208b",
+    "storage_bucket": "intro-5208b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233056447495:android:56042368dfd0ceba898ea2",
+        "android_client_info": {
+          "package_name": "com.example.intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233056447495-o2kirbj6jo3k8bmhqnav51j6ihcp183t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAz7l9lxtD_Yq4Uc8cxsX0TEjTZtwwdpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233056447495-o2kirbj6jo3k8bmhqnav51j6ihcp183t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
